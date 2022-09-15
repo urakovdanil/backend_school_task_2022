@@ -1,0 +1,3 @@
+[console_scripts]
+disc_backend-api = disc_backend.api.__main__:main
+disc_backend-db = disc_backend.db.__main__:main

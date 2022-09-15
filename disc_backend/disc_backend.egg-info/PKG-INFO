@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: disc-backend
+Version: 0.0.18
+Summary: REST-API, позволяющий пользователям загружать и обновлять информацию о файлах и папках.
+Author: Daniil Urakov
+Author-email: dvurakov@yandex.ru
+License: MIT
+Platform: all
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: Russian
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Requires-Python: >=3.8
+Provides-Extra: dev

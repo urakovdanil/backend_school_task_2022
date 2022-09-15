@@ -1,0 +1,6 @@
+---
+
+- name: restart disc_backend
+  service:
+      name: docker-compose@disc_backend
+      state: restarted
